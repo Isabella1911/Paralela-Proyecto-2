@@ -1,0 +1,10 @@
+# Binarios de compilacion
+/bin/
+*.o
+
+# Archivos cifrados / recuperados generados en las pruebas
+/datos/*.bin
+/datos/recuperado*.txt
+
+# Clon de referencia del repo de Teoria (no es parte de este proyecto)
+/repo-teoria/
